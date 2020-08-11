@@ -1,0 +1,43 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+#myHeader {
+    color: #E01A76;
+    text-align: center;
+    background-color:#fff;
+    height:20rem;
+    
+}
+
+#body {
+  background-repeat: no-repeat;
+  height: 85vh;
+  width: 100%;
+  background-size: 100% 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+
+.card-title{
+    text-align:center;
+    padding-top:15rem;
+}
+
+.card-text {
+    text-align: center;
+    }
+
