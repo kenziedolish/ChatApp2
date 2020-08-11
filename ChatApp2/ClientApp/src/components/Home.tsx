@@ -1,7 +1,9 @@
 import * as React from 'react';
 import { connect } from 'react-redux';
+;
 
 const Home = () => (
+   
     <div id="body">
         <div className="card bg-dark text-black">
             <img className="card-img" src={require('../DSC_0188.png')} alt="Card image"/>
